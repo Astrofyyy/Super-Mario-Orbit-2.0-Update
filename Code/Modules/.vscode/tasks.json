@@ -1,0 +1,15 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "SyatiManager - Build Solution",
+      "type": "shell",
+      "command": "\"C:/Users/james/OneDrive/Documents/Modding Tools/SyatiiManagerV3/SyatiManager.exe\" \"C:\Users\james\OneDrive\Documents\Modding Tools\SMG2.5\Code\SMG2.5.syt\" -b --no-gui",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": []
+    }
+  ]
+}
