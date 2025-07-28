@@ -1,0 +1,23 @@
+{
+	"FileSelect": "File Select",
+	"LifeParadeGalaxy": "SYS - Prologue",
+	"DeathParadeGalaxy": "SYS - Game Over",
+	"CrownDemoGalaxy": "Credits",
+	
+	"NabeGalaxy": "Starry Observatory",
+    
+	"HikeGardenGalaxy": "Floaty Heights Galaxy",
+	"YoshiHugelGalaxy": "Yoshi Hills Galaxy",
+	"WolkeNeuauflageGalaxy": "Cloudy Plains Galaxy",
+    	"SunBeachExGalaxy": "Sunset Beach Galaxy",
+	"MagmaHeimGalaxy": "Inferno Isles Galaxy",
+	"LWEntryGalaxy": "Bowser's Eternal Empire",
+    
+    "AcornCapGalaxy": "Sundown Sweat Galaxy",
+    "BonusExAGalaxy": "Planet Plains Galaxy",
+    "FliegenGalaxy" : "Orbit Overdrive Galaxy",
+    "GleitenKurzExGalaxy": "Starlight Slide Galaxy",
+    "DepthLiquidExGalaxy": "EX-5 - Bubble Boil Galaxy",
+    "StarDustRedBlueExGalaxy": "EX-6 - Swap Space Galaxy",
+    "FinalKingGalaxy" : "EX-7 - Grand Finale Galaxy"
+}
