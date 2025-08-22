@@ -1,0 +1,22 @@
+{
+  "Modules": [
+    "GroundPoundJump",
+    "MorphFooAndIce",
+    "Poihana",
+    "PowerStarSpawner",
+    "PTUtils",
+    "RedCoinSystem",
+    "SwingRope",
+    "Syati_Init",
+    "Syati_ObjectFactories",
+    "TwoWayArrowStep",
+    "CoinBase"
+  ],
+  "ModulesPath": "Modules\\",
+  "OutputPath": "Output/",
+  "Regions": [
+    "USA"
+  ],
+  "Unibuild": "Never",
+  "Tasks": []
+}
