@@ -1,5 +1,4 @@
 # Super Mario Orbit Full Release!
-An update to Super Mario Orbit.
 
 PLAYING ON WII/WII U:
 
