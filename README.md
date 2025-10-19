@@ -1,5 +1,7 @@
 # Super Mario Orbit Full Release!
 
+DOWNLOAD: https://gamebanana.com/mods/627942
+
 PLAYING ON WII/WII U:
 
 If you're playing on a Wii or Wii U, you'll need:
